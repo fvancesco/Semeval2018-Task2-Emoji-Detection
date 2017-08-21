@@ -31,13 +31,13 @@ $ sudo python setup.py install
 
 For example:
 
-For a file containng the text of american tweets (one per line): 
+For a file containng the text of the american tweets (one per line): 
 
 ```bash
 $ python emoji_extractor_semeval18.py tweets_us.txt us
 ```
-For a file containng the json of american tweets (one per line): 
+For a file containng the json of the american tweets (one per line): 
 
 ```bash
-$ python emoji_extractor_semeval18.py tweets_es.json us
+$ python emoji_extractor_semeval18.py tweets_us.json us
 ```
