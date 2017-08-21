@@ -1,4 +1,4 @@
-# Tools for Semeval2018 Task2 - Multimodal Emoji Detection
+# Tools for Semeval2018 Task2 - Multilanguage Emoji Prediction
 
 ------- STILL NOT READY :sob: -----------
 
