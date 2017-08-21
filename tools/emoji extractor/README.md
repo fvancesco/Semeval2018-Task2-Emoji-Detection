@@ -11,8 +11,6 @@ WARNING! We skip the tweet if:
 * the tweet do not contain the emojis that we use as labels
 * the tweet contains more than one type of emoji
 
-For example, given: "Incredible Tasks, I love semeval"
-
 Instructions
 -----------------
 1. **Install emoji library** 
