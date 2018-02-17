@@ -9,6 +9,9 @@ In the "teams" folder includes useful files for each team:
 * confusion.png, confusion table of the predictions
 
 Example of Table:
-<img src="table_example.png" width="480">
+
+<img src="table_example.png" width="300">
+
 Example of Confusion Matrix:
+
 <img src="confusion_example.png" width="480">
