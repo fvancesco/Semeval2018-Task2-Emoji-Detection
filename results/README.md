@@ -9,6 +9,6 @@ In the "teams" folder includes useful files for each team:
 * confusion.png, confusion table of the predictions
 
 Example of Table:
-![](./table_example.png =50x)
+<img src="table_example.png" width="48">
 Example of Confusion Matrix:
-![](./confusion_example.png =50x)
+<img src="confusion_example.png" width="48">
