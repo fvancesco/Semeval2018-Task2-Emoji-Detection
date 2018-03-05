@@ -135,7 +135,7 @@ with open("table.tex",'w') as out:
     out.write(end)
 
 #Confusion matrix
-cm = confusion_matrix(P, G, labels)
+cm = confusion_matrix(G, P, labels)
 csfont = {'fontname':'Times', 'fontsize':'17'}
 np.set_printoptions(precision=2)
 M = cm.sum(axis=1)
